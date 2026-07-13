@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mudrika</h1>
+<h1 align="center">Hie, I'm Mudrikaa</h1>
 <h3 align="center">Full-Stack Developer • AI/ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
