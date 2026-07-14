@@ -31,7 +31,7 @@ const mudrikaaa = {
 
 ---
 
-<h3 align="center">⟨ tech & tools ⟩</h3>
+<h3 align="center">⟨ Tech & Tools ⟩</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,js,react,nextjs,nodejs,nestjs,postgres,mongodb,prisma,redis,tensorflow,pytorch&theme=dark&perline=8" alt="tech stack" />
