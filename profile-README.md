@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mudrika 👋</h1>
+<h1 align="center">Hie, I'm Mudrikaa 👋</h1>
 
 <!-- animated rotating title -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">🌙 whoami</h3>
+<h3 align="center">🌙 WHO AM I</h3>
 
 ```ts
 const mudrikaaa = {
