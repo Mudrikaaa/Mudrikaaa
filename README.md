@@ -1,4 +1,4 @@
-<h1 align="center">Hie, I'm Mudrikaa 👋</h1>
+<h1 align="center">Hie! I'm Mudrikaa 👋</h1>
 
 <!-- animated rotating title -->
 <p align="center">
@@ -12,12 +12,12 @@
 
 ---
 
-<h3 align="center">🌙 WHO AM I</h3>
+<h3 align="center">🌙 Whoami</h3>
 
 ```ts
 const mudrikaaa = {
   role: "full-stack dev + AI/ML tinkerer",
-  currently: "teaching machines to think so I can overthink less",
+  currently: "teaching machines to think on behalf of me",
   design: "I add more color to my UIs than to my outfits",
   fuel: "playlists + questionable amounts of focus",
 };
@@ -39,12 +39,11 @@ const mudrikaaa = {
 
 ---
 
-<h3 align="center">🌱 Find me being productive (or not)</h3>
+<h3 align="center">🌱 Find Me Being Productive (Or Not)</h3>
 
 <p align="center">
-  <a href="mailto:mudrikakumawat24@gmail.com"><img src="./gmail.png" width="54" alt="Gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mudrika-kumawat/"><img src="./linkedin.png" width="54" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/mudriikaa__"><img src="./instagram.png" width="54" alt="Instagram" /></a>
+  <a href="mailto:mudrikakumawat24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mudrika-kumawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/mudriikaa__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
